@@ -1,0 +1,13 @@
+html, body {
+    overflow-x: hidden;
+ }
+.container{
+    min-width: 100vw;
+}
+.container1{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.image-group{
+    background-color: red;
+}
